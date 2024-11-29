@@ -5,9 +5,9 @@ Details: [PDF Edition](https://github.com/Racheus/RacheusTemplate/blob/master/We
 
 Cover:
 
-![Insert Error!](https://github.com/Racheus/RacheusTemplate/tree/master/Figure/cover.png)
+![Insert Error!](Figure/cover.png)
 
 Distinguishing Feature：
 
-![Insert Error!](https://github.com/Racheus/RacheusTemplate/tree/master/Figure/intro.png)
+![Insert Error!](Figure/intro.png)
 
