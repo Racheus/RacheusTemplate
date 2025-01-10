@@ -1,8 +1,0 @@
-\beamer@sectionintoc {1}{Figure and Notes}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{Figure and Notes}{3}{0}{1}
-\beamer@sectionintoc {2}{Chinese Characters}{4}{0}{2}
-\beamer@subsectionintoc {2}{1}{中文测试}{5}{0}{2}
-\beamer@sectionintoc {3}{Mathematical Formula}{6}{0}{3}
-\beamer@subsectionintoc {3}{1}{Mathematical Formula}{7}{0}{3}
-\beamer@sectionintoc {4}{Coding Environment}{8}{0}{4}
-\beamer@subsectionintoc {4}{1}{Coding Environment}{9}{0}{4}
